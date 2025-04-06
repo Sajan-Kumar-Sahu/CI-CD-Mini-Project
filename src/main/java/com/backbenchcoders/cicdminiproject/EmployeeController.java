@@ -66,7 +66,7 @@ public class EmployeeController {
             </style>
         </head>
         <body>
-            <h1>Welcome to CI-CD Mini Project</h1>
+            <h1>Welcome to CI-CD Mini Project_version_2.0</h1>
             <div class="description">
                 <p>This mini project demonstrates the power of <span class="highlight">CI/CD (Continuous Integration and Continuous Deployment)</span> in modern software development.</p>
                 <p>CI/CD automates the process of integrating code changes, running tests, and deploying applications. This ensures faster delivery, reduced bugs, and streamlined development workflows.</p>
